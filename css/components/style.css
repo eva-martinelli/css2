@@ -1,0 +1,18 @@
+ @import url("https://fonts.googleapis.com/css?family=Lora: wgh@400;700&family=Roboto: wght@300;400;500;700;900&display=swap");
+
+@import url("le wagon1/container.css");
+@import url("le wagon1/avatar.css");
+@import url("le wagon1/button.css");
+@import url("le wagon1/banner.css")
+
+body {
+ 	font-family: 'Lora' , serif;
+ 	font-size: 18px;
+ 	margin: 0px;
+}
+h1, h2, h3 {
+	font-family: 'Roboto' , sans-serif;
+	font-weight: bold;
+}
+
+
